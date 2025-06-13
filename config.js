@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "5 Maple Ave North",
     "city": "Burford",
@@ -94,7 +94,7 @@
     "repoName": "Open-House-686",
     "repoUrl": "https://github.com/arslvn93/Open-House-686",
     "netlifyUrl": null,
-    "siteId": "1001641052",
+    "siteId": "4e70ca5a-e077-4a1c-862b-6653b8b7c7d5",
     "tag": "Open House 5 Maple Ave North"
   }
 }
