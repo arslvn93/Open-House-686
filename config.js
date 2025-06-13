@@ -26,14 +26,34 @@ const config = {
   },
   "openHouse": {
     "eventDate": "2025-06-21",
-    "additionalDates": ["2025-06-22"],
+    "additionalDates": [
+      "2025-06-22"
+    ],
     "bundleItems": [
-      { "icon": "fas fa-link", "text": "Property Listing URL" },
-      { "icon": "fas fa-image", "text": "Photos" },
-      { "icon": "fas fa-video", "text": "Virtual Tour" },
-      { "icon": "fas fa-chart-line", "text": "Recent Neighborhood Sales" },
-      { "icon": "fas fa-home", "text": "On-Market Comparables" },
-      { "icon": "fas fa-ruler-combined", "text": "Floor Plan" }
+      {
+        "icon": "fas fa-link",
+        "text": "Property Listing URL"
+      },
+      {
+        "icon": "fas fa-image",
+        "text": "Photos"
+      },
+      {
+        "icon": "fas fa-video",
+        "text": "Virtual Tour"
+      },
+      {
+        "icon": "fas fa-chart-line",
+        "text": "Recent Neighborhood Sales"
+      },
+      {
+        "icon": "fas fa-home",
+        "text": "On-Market Comparables"
+      },
+      {
+        "icon": "fas fa-ruler-combined",
+        "text": "Floor Plan"
+      }
     ]
   },
   "meta": {
@@ -57,44 +77,80 @@ const config = {
       "id": "agent_status",
       "questionText": "Are you currently exploring homes with a real estate agent?",
       "options": [
-        { "value": "committed", "text": "Yes, I'm committed to an agent." },
-        { "value": "not_committed", "text": "No, I'm not committed to an agent." },
-        { "value": "gathering_info", "text": "Just gathering information at this stage." }
+        {
+          "value": "committed",
+          "text": "Yes, I'm committed to an agent."
+        },
+        {
+          "value": "not_committed",
+          "text": "No, I'm not committed to an agent."
+        },
+        {
+          "value": "gathering_info",
+          "text": "Just gathering information at this stage."
+        }
       ]
     },
     {
       "id": "interest_level",
       "questionText": "How interested are you in properties like this?",
       "options": [
-        { "value": "very_interested", "text": "Very interested, actively looking." },
-        { "value": "somewhat_interested", "text": "Somewhat interested, keeping options open." },
-        { "value": "just_browsing", "text": "Just browsing for now." }
+        {
+          "value": "very_interested",
+          "text": "Very interested, actively looking."
+        },
+        {
+          "value": "somewhat_interested",
+          "text": "Somewhat interested, keeping options open."
+        },
+        {
+          "value": "just_browsing",
+          "text": "Just browsing for now."
+        }
       ]
     },
     {
       "id": "neighborhood_engagement",
       "questionText": "How do you usually enjoy the neighborhood?",
       "options": [
-        { "value": "resident_explorer", "text": "I live here and love exploring locally." },
-        { "value": "considering_move", "text": "I'm considering moving to this area." },
-        { "value": "just_visiting", "text": "Just visiting for the open house." }
+        {
+          "value": "resident_explorer",
+          "text": "I live here and love exploring locally."
+        },
+        {
+          "value": "considering_move",
+          "text": "I'm considering moving to this area."
+        },
+        {
+          "value": "just_visiting",
+          "text": "Just visiting for the open house."
+        }
       ]
     },
     {
       "id": "feature_attraction",
       "questionText": "What feature attracted you to this home?",
       "options": [
-        { "value": "design_layout", "text": "The design and layout." },
-        { "value": "location_neighborhood", "text": "The location and neighborhood." },
-        { "value": "home_price", "text": "The price of the home." }
+        {
+          "value": "design_layout",
+          "text": "The design and layout."
+        },
+        {
+          "value": "location_neighborhood",
+          "text": "The location and neighborhood."
+        },
+        {
+          "value": "home_price",
+          "text": "The price of the home."
+        }
       ]
     }
   ],
   "deploymentInfo": {
     "repoName": "Open-House-686",
     "repoUrl": "https://github.com/arslvn93/Open-House-686",
-    "netlifyUrl": null,
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/Vud9IvQgadBxXiYKXAnX/webhook-trigger/Xpxt48M9IoSkLw8u6veV",
     "siteId": "4e70ca5a-e077-4a1c-862b-6653b8b7c7d5",
     "tag": "Open House 5 Maple Ave North"
   }
-}
+};
