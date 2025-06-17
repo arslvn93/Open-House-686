@@ -12,7 +12,7 @@ const config = {
     "phone": "(519) 761-0907",
     "email": "ashley@theriserealtygroup.ca",
     "bio": "Rise Realty Group was established with one core principle in mind: to provide the best real estate experience possible. With over 20 years of experience in the real estate industry and a deep commitment to our community, our mission is to help you make informed decisions and provide clarity even in complex situations. Real estate is not just about transactions; it’s about building relationships and fostering trust. We strive to deliver exceptional results and raise your expectations.",
-    "photoUrl": "https://www.notion.so/image/https%3A%2F%2Fapi.typeform.com%2Fresponses%2Ffiles%2Fd6c89767ce2e73d0ae01197800a81fd61cede107ff6b5e9539e28d7a9ddce144%2F028A4024.JPG?table=block&id=1941d08c-4f5a-814b-b63e-fdd2f22f599e&spaceId=8e0c10a0-da43-409c-b191-91135b7161ff&width=2000&userId=17ad872b-594c-8163-b836-0002befd0f21&cache=v2",
+    "photoUrl": "https://drive.google.com/file/d/1hMRW47CZtDhSYI8uj7VnhLMBLnw5SyXi/view?usp=drive_link",
     "social": {
       "facebook": "https://www.facebook.com/theriserealtygroup/",
       "instagram": "https://www.instagram.com/ashleyveldkamp/",
