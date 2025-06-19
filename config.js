@@ -15,7 +15,7 @@ const config = {
     "photoUrl": "https://i.ibb.co/gFXn9nnR/Alex-Georgia.png",
     "social": {
       "facebook": "https://www.facebook.com/theriserealtygroup/",
-      "instagram": "https://www.instagram.com/ashleyveldkamp/",
+      "instagram": "https://www.instagram.com/theriserealtygroup/",
       "website": "https://theriserealtygroup.ca/"
     }
   },
