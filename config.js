@@ -7,12 +7,12 @@ const config = {
     "backgroundImageUrl": "https://api.typeform.com/responses/files/c6bac8692601f93869bbad1cd77ba0a8f4b70031812a530209f19199b92c7a1d/GetMedia.jpg"
   },
   "realtor": {
-    "fullName": "Ashley Veldkamp",
-    "title": "REALTOR®",
-    "phone": "(519) 761-0907",
-    "email": "ashley@theriserealtygroup.ca",
+    "fullName": "Alex & Georgia",
+    "title": "The Rise Realty Group",
+    "phone": "519-209-2721",
+    "email": "info@theriserealtygroup.ca",
     "bio": "Rise Realty Group was established with one core principle in mind: to provide the best real estate experience possible. With over 20 years of experience in the real estate industry and a deep commitment to our community, our mission is to help you make informed decisions and provide clarity even in complex situations. Real estate is not just about transactions; it’s about building relationships and fostering trust. We strive to deliver exceptional results and raise your expectations.",
-    "photoUrl": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-1/240425693_10165610813055603_6029353377177399158_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=111&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zIgyT8622NkQ7kNvwHD4RxA&_nc_oc=AdlKFMW5HmW4f7SehnxA-wEs0w7H9CKHZsarSZTQECj-sP7E93cdx4bPuFsLt4ElIWg&_nc_zt=24&_nc_ht=scontent-yyz1-1.xx&_nc_gid=xItgtyN7kJHNAD20OE5erA&oh=00_AfMFS0Jjqbpx8rHOTuxnoBQEKZTCV1E_Q3wj1HKI5qQZog&oe=68589352",
+    "photoUrl": "https://i.ibb.co/gFXn9nnR/Alex-Georgia.png",
     "social": {
       "facebook": "https://www.facebook.com/theriserealtygroup/",
       "instagram": "https://www.instagram.com/ashleyveldkamp/",
