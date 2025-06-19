@@ -3,7 +3,7 @@ const config = {
     "streetAddress": "5 Maple Ave North",
     "city": "Burford",
     "cityStateZip": "Burford, ON N0E 1A0",
-    "heroSubtitle": "Move in ready freehold home in the cute town of Burford. Listing price: $549,900. 3 beds, 2 baths. Discover the charm and comfort of this welcoming neighbourhood! Register to receive the full Home & Neighbourhood Info Package, virtual tour, floor plans, and recent neighbourhood sales.",
+    "heroSubtitle": "Move in ready freehold home in the cute town of Burford. Listing price: $549,900. 3 beds, 2 baths. Discover the charm and comfort of this welcoming neighbourhood! Register to receive the full Home & Neighbourhood Info Package, virtual tour and floor plans.",
     "backgroundImageUrl": "https://api.typeform.com/responses/files/c6bac8692601f93869bbad1cd77ba0a8f4b70031812a530209f19199b92c7a1d/GetMedia.jpg"
   },
   "realtor": {
