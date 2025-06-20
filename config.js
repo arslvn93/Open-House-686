@@ -4,7 +4,7 @@ const config = {
     "city": "Burford",
     "cityStateZip": "Burford, ON N0E 1A0",
     "heroSubtitle": "Move in ready freehold home in the cute town of Burford. Listing price: $549,900. 3 beds, 2 baths. Discover the charm and comfort of this welcoming neighbourhood! Register to receive the full Home & Neighbourhood Info Package, virtual tour and floor plans.",
-    "backgroundImageUrl": "https://files.slack.com/files-pri/T071SJMEM18-F092RKR9WHX/7-web-or-mls-07.jpg"
+    "backgroundImageUrl": "https://i.ibb.co/YF6KJJ22/Screenshot-2025-06-20-at-11-20-45-a-m.png"
   },
   "realtor": {
     "fullName": "Alex & Georgia",
